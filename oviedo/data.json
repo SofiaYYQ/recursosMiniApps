@@ -3,7 +3,7 @@
         "app_id": "org.example.same.identifier.manifest.package",
         "app_title": "VisitOviedoApp",
         "version": 1,
-        "updated": "2022-09-26",
+        "updated": "2023-10-04",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
         "marketplace_url": ""
@@ -31,8 +31,8 @@
                     "images": [
                         "https://sofiayyq.github.io/recursosMiniApps/oviedo/images/fotografia-estatua-de-mafalda.jpeg"
                     ],
-                    "description": "Estatua Mafalda",
-                    "more": "",
+                    "description": "Desde octubre de 2014 existe en el parque una estatua de Mafalda, el célebre personaje creado por Quino.",
+                    "more": "Dicha estatua fue creada por Pablo Irrgang, que previamente había diseñado otra para el barrio de San Telmo, en Buenos Aires, con motivo del premio Príncipe de Asturias4​ con el que Quino fue galardonado.",
                     "urls": [
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
                         "https://example.org/mypoi"
@@ -43,11 +43,27 @@
                     "lat": "43.36253699615924",
                     "lon": "-5.843604230411266",
                     "type": "edificio",
-                    "name": "Catedral de Oviedo",
+                    "name": "Catedral San Salvador de Oviedo",
                     "images": [
                         "https://sofiayyq.github.io/recursosMiniApps/oviedo/images/Cathedral_of_Oviedo_2021_-_exterior.jpg"
                     ],
-                    "description": "Catedral de Oviedo",
+                    "description": "Es una catedral de estilo gótico que se encuentra en la ciudad de Oviedo (Principado de Asturias, España).",
+                    "more": "Es conocida también como Sancta Ovetensis, refiriéndose a la calidad y cantidad de las reliquias que contiene.",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },
+                {
+                    "id": "uniqueID-3",
+                    "lat": "43.36248169866231",
+                    "lon": "-5.850171180832341",
+                    "type": "parque",
+                    "name": "Estanque de patos",
+                    "images": [
+                        "https://sofiayyq.github.io/recursosMiniApps/oviedo/images/estanque_patos.jpg"
+                    ],
+                    "description": "Se proyecta su construcción en el año 1876 dentro de un intento de conversión del Campo en un “parque de estilo inglés” donde la instalación de fuentes en las zonas altas abastecerían de caudal este nuevo espacio lúdico y ornamental a través de diversos saltos de agua por parcelas poco arboladas. También conocido como “Estanque de los Cisnes” por las aves que habitaron durante algunos años en este lugar.",
                     "more": "",
                     "urls": [
                         "https://nl.wikipedia.org/MyPoi",
